@@ -27,7 +27,9 @@ public class Average {
                 where
                     - n is a positive integer denoting how many lines of data to expect.
                     - Name[1...N] is the name compute the average for
-                    - a[1...N], b[1...N], c[1...N] are the numbers to average for Name""";
+                    - a[1...N], b[1...N], c[1...N] are the numbers to average for Name
+                
+                """;
 
         // number of integer data points to collect per row of data
         final int DATA_POINTS_PER_ROW = 3;

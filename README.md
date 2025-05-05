@@ -16,3 +16,13 @@ Coursework for TESU COS-1110 Intro to Programming
   Takes an integer, *n* as a command line parameter, creates an •n•x•n* of type boolean such that each element is true or false based on whether
   the element's indices are relatively prime, and then outputs the results
   to the screen
+- M02.2 ```Distribution100```
+  Accepts integer command-line arguments each between 1 and 100. The first of which denotes how many others will follow. 
+  It then calculates how many of those are greater than 50 and how many are less than or equal to 50, and outputs the results.
+- M02.3 ```Average```
+  Collects multiple lines of data, a name and three integers each. 
+  To set this up, it accepts a single command-line parameter indicating how many lines of data will be input by the user.
+  From then on, so long as the user types a name followed by three integers, the program will accept them.
+  Program completes when user enters a blank line after inputting the specified number of rows.
+  For each row, the three integers are averaged, and then the results are displayed
+  in tabular from.
